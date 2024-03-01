@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding:0;
+}
+header{
+    width:100%;
+    height:10vh;
+    background-color:black;
+}
+footer{
+    width:100%;
+    height:10vh;
+    color:cadetblue;
+    position:0;
+}
+.bg{
+    background-image: url('images/abstract-textured-backgound_1258-30436.avif');
+    background-size: cover;
+    height: 300vh;
+    max-width:100%
+}
+.nandu{
+    height:700px;
+    width:400px;
+    border-radius:20px;
+    box-shadow: inset;
+    margin:20px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.heading{
+    color: aliceblue;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 70px;
+    margin:20px;
+    padding:20px;
+}
+.text{
+    margin:20px;
+    padding:20px;
+}
+.para{
+    margin:20px;
+    padding:20px;
+    color:aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.button{
+    height:50px;
+    width:150px;
+    background-color:whitesmoke;
+    color:black;
+    padding:10px;
+    margin:20px;
+    text-align: center;
+    border-width:0px;
+    border-radius:20px;
+}
+.myprojects{
+    font-family:Snell Roundhand, cursive;
+    color:white;
+    font-size: 70px;
+    margin:20px;
+    padding:20px;
+}
+.card1{
+    height:500px;
+    width:700px;
+    border-radius: 20px;
+    background-color: rgba(221, 228, 234, 0.801);
+}
+.alumni{
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    padding:10px;
+    margin:10px;
+    text-align:left;
+    font-size: 30px;
+} 
+.para_alumni{
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    padding:10px;
+    margin:10px;
+    text-align:left;
+    font-size: 20px;
+}  
+.alumniimg{
+    width:700px;
+    height:220px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.card2{
+    height:500px;
+    width:700px;
+    border-radius: 20px;
+    background-color: rgba(221, 228, 234, 0.801);
+}
+.UL{
+    padding:10px;
+    margin:10px;
+    text-align: center;
+    align-items: center;
+
+}
+.list{
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    padding:10px;
+    margin:10px;
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+
+}
+.footer1{
+    border-color: black;
+    border-width: 10px;
+
+}
+.links{
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:10px;
+    text-align: center;
+    padding-left: 30px;
+}
+
+.header1{
+    color:antiquewhite;
+    text-align: center;
+    padding:10px;
+    margin:10px;
+    font-family:Snell Roundhand, cursive; 
+    margin-bottom: 10px;
+}
